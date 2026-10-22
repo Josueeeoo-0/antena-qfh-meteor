@@ -1,0 +1,34 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "wire_diameter",
+         "type": "float",
+         "value": 2.0
+      },
+      {
+         "name": "D1",
+         "type": "float",
+         "value": 322.0
+      },
+      {
+         "name": "D2",
+         "type": "float",
+         "value": 306.1
+      },
+      {
+         "name": "H1",
+         "type": "float",
+         "value": 731.8
+      },
+      {
+         "name": "H2",
+         "type": "float",
+         "value": 695.8
+      }
+   ],
+   "outputVariables": []
+}

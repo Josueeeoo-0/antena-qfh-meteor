@@ -1,0 +1,35 @@
+{
+    "parameters": [
+        {
+            "expr": "2",
+            "name": "wire_diameter",
+            "value": "2"
+        },
+        {
+            "expr": "322",
+            "name": "D1",
+            "value": "322"
+        },
+        {
+            "expr": "306.1",
+            "name": "D2",
+            "value": "306.1"
+        },
+        {
+            "expr": "731.8",
+            "name": "H1",
+            "value": "731.8"
+        },
+        {
+            "expr": "695.8",
+            "name": "H2",
+            "value": "695.8"
+        },
+        {
+            "expr": "(H1-H2)/2",
+            "name": "dif",
+            "value": "18"
+        }
+    ],
+    "version": 1
+}

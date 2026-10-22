@@ -1,0 +1,13 @@
+{
+   "Author": "LENOVO",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF IntegralEq",
+   "Last Solver Type Abb": "i",
+   "Mesh Cells": "",
+   "Mesh Type": "Surface",
+   "Modeler Unique ID": "5:prueba3.cst?733a45577556a6c252b27ed64ae70328?53942:numberofparameters=0:port=1>mode=1>zre=0>zim=0",
+   "ProjectVersion": "'# MWS Version: Version 2025.1 - Oct 28 2024 - ACIS 34.0.1 -",
+   "Results": "Frequency Domain: Integral Equation Solver",
+   "Version": "3"
+}

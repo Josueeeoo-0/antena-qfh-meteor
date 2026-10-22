@@ -1,0 +1,11 @@
+Thumbs.db
+.DS_Store
+*.bak
+*.lck
+*.lock
+*.log
+*.slog
+*.mdg
+**/Temp/
+**/ModelCache/
+**/Cache/
